@@ -1,0 +1,6 @@
+C:\code\matc\itdev162\brenden-hunter-p2\Commander\obj\Debug\netcoreapp3.1\Command.csproj.AssemblyReference.cache
+C:\code\matc\itdev162\brenden-hunter-p2\Commander\obj\Debug\netcoreapp3.1\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\matc\itdev162\brenden-hunter-p2\Commander\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+C:\code\matc\itdev162\brenden-hunter-p2\Commander\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+C:\code\matc\itdev162\brenden-hunter-p2\Commander\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+C:\code\matc\itdev162\brenden-hunter-p2\Commander\obj\Debug\netcoreapp3.1\Command.MvcApplicationPartsAssemblyInfo.cache
